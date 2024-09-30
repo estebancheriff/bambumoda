@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #d9c3a7; /* Fondo bambu beige */
-    color: #FFFFFF;
+    color: #637f52;
     margin: 0;
     padding: 0;
 }
@@ -19,12 +19,12 @@ h1 {
 
 h2 {
     font-size: 2em;
-    color: #e6d2b9;
+    color: #637f52;
 }
 
 p {
     font-size: 1.2em;
-    color: #FFFFFF;
+    color: #637f52;
 }
 
 /* Links de redes sociales */
@@ -60,7 +60,7 @@ p {
     height: 0;
     overflow: hidden;
     max-width: 100%;
-    background: #f0f0f0; /* Fondo por si el mapa no carga */
+    background: #637f52; /* Fondo por si el mapa no carga */
 }
 
 .map-container iframe {
@@ -85,7 +85,7 @@ footer {
 }
 
 .social-icons a {
-    color: white;
+    color: #637f52;
     margin: 0 10px;
     font-size: 1.5em;
     transition: transform 0.3s ease;
