@@ -42,7 +42,7 @@ p {
 .link {
     padding: 10px 20px;
     background-color: #637f52;
-    color: white;
+    color: #d9c3a7;
     text-decoration: none;
     border-radius: 5px;
     transition: transform 0.3s ease, background-color 0.3s ease;
