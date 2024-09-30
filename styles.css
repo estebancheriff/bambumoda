@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #e6d2b9;
+    background-color: #637f52;
     padding: 20px;
     text-align: center;
 }
@@ -41,7 +41,7 @@ p {
 
 .link {
     padding: 10px 20px;
-    background-color: #e6d2b9;
+    background-color: #637f52;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -75,7 +75,7 @@ p {
 
 /* Footer */
 footer {
-    background-color: #42A5F5;
+    background-color: #d9c3a7;
     padding: 10px;
     text-align: center;
 }
